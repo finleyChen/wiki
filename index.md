@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Wiki
 
-layout: page
+layout: page_without_aside
 
 isIndex: true
 ---
