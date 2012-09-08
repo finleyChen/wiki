@@ -26,8 +26,19 @@ isIndex: true
 - [An Evaluation of the Ninth SOSP Submissions, or, How (and How Not) to Write a Good Systems Paper](http://ftp.digital.com/pub/DEC/SRC/other/SOSPadvice.txt), by Roy Levin and David D. Redell
 - ["Advice to Authors of Extended Abstracts"](ftp://parcftp.xerox.com/pub/popl96/pugh/advice.ps.Z), by William Pugh
 - ["Three Sins of Authors in Computer Science and Math "](http://www.cs.cmu.edu/~jrs/sins.html), by Jonathan Shewchuk
+- [A thesis proposal is a contract](http://matt.might.net/articles/advice-for-phd-thesis-proposals/), by Matt Might
 # Making Presentations
 #### How do I not put everyone to sleep?
 
-- [How to Present a Paper](http://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html) by Ashwin Ram
-- [Giving an Academic Talk](http://www.cs.berkeley.edu/~jrs/speaking.html) by Jonathan Shewchuk
+- [How to Present a Paper](http://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html), by Ashwin Ram
+- [Giving an Academic Talk](http://www.cs.berkeley.edu/~jrs/speaking.html), by Jonathan Shewchuk
+- [10 tips for academic talks](http://matt.might.net/articles/academic-presentation-tips/)
+# Be Productive
+ 
+- [Boost your productivity: Cripple your technology](http://matt.might.net/articles/cripple-your-technology/), by Matt Might
+- [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/), by Matt Might
+- [Productivity tips, tricks and hacks for academics](http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/), by Matt Might
+# Effective Communications
+
+- [How to send and reply to email](http://matt.might.net/articles/how-to-email/), by Matt Might
+- [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/), by Matt Might
